@@ -388,3 +388,12 @@
     </script>
 </body>
 </html>
+<!-- Add this section to your index.html -->
+<section class="code-access">
+    <h2>Built with Love & Code</h2>
+    <p>This eternal moment was crafted with pure HTML, CSS, and JavaScript.</p>
+    <a href="https://github.com/[yourusername]/the-moment-nuevavista" 
+       class="code-button">
+        🔧 View Source Code on GitHub
+    </a>
+</section>
